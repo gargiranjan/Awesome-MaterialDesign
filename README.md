@@ -1,9 +1,9 @@
-Awesome-MaterialDesign
+Awesome-MaterialDesign 
 ==================
 
 A curated list of awesome Android MaterialDesign res and libraries. Feel free to contrubute.
 
-##Other Awesome List
+##Other Awesome List added
 * [awesome](https://github.com/sindresorhus/awesome)
 * [awesome-android](https://github.com/snowdream/awesome-android)  
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)  
